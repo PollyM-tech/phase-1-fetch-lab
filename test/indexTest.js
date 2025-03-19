@@ -1,5 +1,9 @@
 require ( './helpers.js' );
 
+//document.addEventListener('DOMContentLoaded', init);
+
+
+
 const sinon = require( 'sinon' );
 const helpers = require( './helpers' );
 const chai = require( 'chai' );
